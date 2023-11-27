@@ -1,4 +1,4 @@
-//### Descrição
+### Descrição
 
 Este script em lote `(.bat)` facilita a instalação de várias ferramentas de desenvolvimento e games no ambiente Windows. Ele automatiza a instalação de aplicativos essenciais para desenvolvedores, como o `Visual Studio Code, Git, Composer, PHP, Android Studio, Node.js, Python e várias outras ferramentas relacionadas a jogos.`
 
