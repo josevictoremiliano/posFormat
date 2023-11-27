@@ -1,9 +1,8 @@
-### Descrição
+//### Descrição
 
 Este script em lote `(.bat)` facilita a instalação de várias ferramentas de desenvolvimento e games no ambiente Windows. Ele automatiza a instalação de aplicativos essenciais para desenvolvedores, como o `Visual Studio Code, Git, Composer, PHP, Android Studio, Node.js, Python e várias outras ferramentas relacionadas a jogos.`
 
 ### Instruções de Uso
-> ...
 > #####   1 - Execute o Script:
 > * Execute o script `posFormat.bat` tocando com o direito sobre ele e va ate executar como administrador.
 > ##### 2 -  Escolha as Opções:
